@@ -44,20 +44,4 @@ class Solution:
                 
 
         return True
-                
 
-
-
-
-
-
-        # #check rows
-        # for row in board:
-        #     used = []
-        #     for i in range(len(row)):
-        #         if row[i]!=".":
-        #             if row[i] in used:
-        #                 return False
-        #             used.append(row[i])
-        # #check cols 
-        # return True
